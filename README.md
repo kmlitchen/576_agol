@@ -1,2 +1,2 @@
-# 576_esrijs
-GEOG_576 Lab 1
+# 576_agol
+GEOG_576 Lab 2
